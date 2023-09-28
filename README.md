@@ -1,5 +1,5 @@
 <h1 align="center">actaviss</h1>
-<h4 align="center">I love abusing discord api's</h4>
+<h4 align="center">prob coding something</h4>
 
 ![](https://komarev.com/ghpvc/?username=actaviss)
 
