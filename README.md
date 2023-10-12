@@ -12,7 +12,7 @@
 <table width="auto" align='center'>
 <tr>
     <td align='center' width="auto">
-        <a href="https://discord.com/users/1145740797891850462"><img src="https://lanyard-profile-readme.vercel.app/api/300291395883892737?theme=dark&bg=00000000&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord"></a>
+        <a href="https://discord.com/users/1145740797891850462"><img src="https://lanyard-profile-readme.vercel.app/api/1145740797891850462?theme=dark&bg=00000000&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord"></a>
     </td>
 </tr>
 </table>
