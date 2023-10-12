@@ -1,11 +1,5 @@
-<h1 align="center">actaviss</h1>
-<h4 align="center">prob coding something</h4>
+<h2 align="center">
 
-![](https://komarev.com/ghpvc/?username=actaviss)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=Hello+there+im+actavis!;I+code+python%2C+js%2CHTML%2C+and+more!)](https://git.io/typing-svg)
 
-
-<p align="center">
-  <a href="https://github.com/actaviss">
-    <img src="https://lanyard.cnrad.dev/api/1152539537004834846?bg=00000000&hideTimestamp=true"/>
-     </a>
-  </p>
+</h2>
