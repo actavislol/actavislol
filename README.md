@@ -4,8 +4,6 @@
 
 </h2>
 
-<img align="right" src="https://user-images.githubusercontent.com/67598470/199029189-64a854c4-2f8e-421a-870c-92f3650d389e.gif" width="300">
-
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
 
