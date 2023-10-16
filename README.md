@@ -10,7 +10,7 @@
 <table width="auto" align='center'>
 <tr>
     <td align='center' width="auto">
-        <a href="https://lanyard.cnrad.dev/api/1139759987166560346?bg=00000000&hideTimestamp=true&idleMessage=Probably%20doing%20something%20else..." alt="Discord"></a>
+        <a href="https://lanyard.cnrad.dev/api/1139759987166560346?bg=00000000&hideTimestamp=true&idleMessage=Probably%20doing%20something%20else..."></a>
     </td>
 </tr>
 </table>
