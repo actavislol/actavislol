@@ -4,7 +4,7 @@
 
 </h2>
 
-<h3 align='center'><i>Social Media Handles</i></h3>
+<h3 align='center'>Social Media Handles</h3>
 <p align='center'>
 
 <table width="auto" align='center'>
