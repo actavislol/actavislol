@@ -1,16 +1,15 @@
-<h2 align="center">
+<p align="center">
+	<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
+<p align="center"><strong>We didn't receive a proper request from your browser.</strong></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=Hey+im+actavis!;I+know+python%2C+js%2C+HTML%2C+and+more!)](https://git.io/typing-svg)
+<p align="center">Sorry about that. Please try refreshing and contact us if the problem persists.</p>
 
-</h2>
+<p align="center">
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Contact Support</a> —
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Status</a> —
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
+</p>
 
-<h3 align='center'>Discord</h3>
-<p align='center'>
-
-<table width="auto" align='center'>
-<tr>
-    <td align='center' width="auto">
-        <a href="https://discord.dog/1139759987166560346"><img src="https://lanyard-profile-readme.vercel.app/api/1139759987166560346?theme=dark&bg=00000000&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord"></a>
-    </td>
-</tr>
-</table>
+<p></p>
+<p></p>
+</p>
